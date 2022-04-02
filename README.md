@@ -1,3 +1,5 @@
+<p align = "center"><img style"border-radius:100px" height="30%" width:"30%" src= "assets/perfil.jpg"></p>
+
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/matheusmatiasmota/"><i>Matheus Matias</i></a> 😃️</h1>
   </div>
